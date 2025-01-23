@@ -2,6 +2,8 @@
 <img src="patris_logo.webp" alt="drawing" style="width:200px;"/>
 </p>
 
+
+
 # 🎮 PATRIS - PAsqal teTRIS
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -9,6 +11,10 @@
 
 **PATRIS** is a variant of TETRIS that can be displayed on a PASQAL's QPU.
 Indeed, the graphics engine of PATRIS is based on a [pulser](https://pulser.readthedocs.io/en/stable/)'s register, that is, an arrangement of atoms in the quantum processor.
+
+<p align="center">
+<img src="patris.gif" alt="drawing" style="width:300px;"/>
+</p>
 
 ## 🚀 Features
 
