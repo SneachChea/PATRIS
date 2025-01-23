@@ -49,7 +49,6 @@ python patris.py --quantum
 - ← → : Move piece horizontally
 - ↑ : Rotate piece
 -  ↓ : Soft drop
--  ESC: Quit game
 
 # Game Mechanics
 
