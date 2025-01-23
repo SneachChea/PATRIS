@@ -8,12 +8,12 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
 **PATRIS** is a variant of TETRIS that can be displayed on a PASQAL's QPU.
-Indeed, the graphics engine of PATRIS is based on a pulser's register, that is, an arrangement of atoms in the quantum processor.
+Indeed, the graphics engine of PATRIS is based on a [pulser](https://pulser.readthedocs.io/en/stable/)'s register, that is, an arrangement of atoms in the quantum processor.
 
 ## 🚀 Features
 
 - **Trap-Based Visualization System**  
-  Monitor 200 virtual "traps" (20x10 grid) representing game state
+  Monitor 200 virtual "traps" (20x10 grid) representing game state (or quantum register)
 - **Time Attack Mode**  
   Race against a decaying timer refreshed by line clears
 - **Quantum Mode**
