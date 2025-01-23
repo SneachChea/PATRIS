@@ -8,8 +8,7 @@
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
 **PATRIS** is a variant of TETRIS that can be displayed on a PASQAL's QPU.
-En effet, le moteur graphique de PATRIS est basé sur un pulser's register, c'est-à-dire un arrangement d'atomes dans le quantum processor.
-
+Indeed, the graphics engine of PATRIS is based on a pulser's register, that is, an arrangement of atoms in the quantum processor.
 
 ## 🚀 Features
 
